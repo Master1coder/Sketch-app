@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+}
+
+
+canvas{
+    border: 5px ridge rgb(0, 0, 0);
+    background-color: black;
+    margin-top: 75px;
+}
+
+p{
+    padding-top: 10px;
+    font-size: 25px;
+}
+
+#one{
+    margin-top: 250px;
+}
